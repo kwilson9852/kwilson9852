@@ -1,16 +1,18 @@
-## Hi there 👋
+# Greetings 🖖
 
-<!--
-**kwilson9852/kwilson9852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **kwilson9852**, a game developer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Build small, ship often
+- 🎯 Goal: ship something useful every week
+- 📚 Reading the source is the best documentation
+- 🌟 Open source enthusiast
+
+## Tech
+
+`Astro` `Terraform` `FastAPI` `WebSocket`
+
+---
+
+_Sometimes i write tests._
